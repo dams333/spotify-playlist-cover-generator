@@ -9,6 +9,7 @@ This script is a proof of concept and needs to be improved. Use it only in a pla
 ## 2) Usage
 
 -   Clone the repository
+-   Create a Spotify app on the [Spotify Developer Dashboard](https://developer.spotify.com/dashboard/applications) and add `http://localhost:3333` as a redirect uri
 -   Create a file named `.env` at the root of the project and add the following content:
 
 ```
